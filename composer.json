@@ -1,5 +1,5 @@
 {
-    "name": "yee-evaengine/eva-oauth",
+    "name": "yee-evaengine/yeeeva-oauth",
     "description": "EvaOAuth is an abstract interface to setup OAuth client, both support OAuth1.0a / OAuth2.",
     "license": "BSD-3-Clause",
     "homepage": "http://avnpc.com/",
